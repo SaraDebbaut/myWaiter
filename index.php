@@ -1,7 +1,7 @@
 <table width="400" border="0" align="center" cellpadding="3" cellspacing="0">
 </table>
 <br>
-
+update
 <?php
 
 $host="student.ikdoeict.be"; // Host name
